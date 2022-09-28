@@ -9,4 +9,4 @@
 
 ### Usage:
 
->python -m backend
+>python -m frontend
